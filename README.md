@@ -5,8 +5,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Creating a SIEM with Azure and Sentinel</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a SIEM with Azure and Sentinel](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 
