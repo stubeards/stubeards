@@ -1,7 +1,10 @@
-## Hi there 👋
+
 
 <h1>Hi, I'm Stuart <br/><a href="https://www.linkedin.com/in/stuart-beardsley808/">Cybersecurity Professional</a>
 </h1>
+
+<h2>About Me:</h2>
+CompTIA Security+ certified cybersecurity professional with experience in threat analysis, vulnerability management, and incident response. Passionate about securing systems and mitigating risks.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
