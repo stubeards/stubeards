@@ -9,7 +9,7 @@ CompTIA Security+ certified cybersecurity professional with experience in threat
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Creating a SIEM with Azure and Sentinel](https://github.com/stubeards/SentinelLab/tree/main)
-  - [Vulnerability Scanning with Burp Suite](https://github.com/stubeards/SentinelLab/tree/main)
+  - [Vulnerability Scanning with Burp Suite](https://github.com/stubeards/VulnerabilityScan)
 
 
 
